@@ -1,0 +1,5 @@
+std = "roblox"
+
+[lints]
+# Strict Luau already type-checks shadowing and globals; keep selene focused on real bugs.
+shadowing = "allow"

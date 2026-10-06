@@ -1,0 +1,23 @@
+# Wally
+/Packages/
+/ServerPackages/
+/DevPackages/
+wally.lock
+
+# Rojo / luau-lsp
+sourcemap.json
+*.rbxl
+*.rbxlx
+*.rbxl.lock
+*.rbxlx.lock
+*.rbxm
+*.rbxmx
+/build/
+globalTypes.d.luau
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
